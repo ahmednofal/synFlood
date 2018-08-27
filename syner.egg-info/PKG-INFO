@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: syner
+Version: 0.0.1
+Summary: ## synFlood
+A "syn of death" this program will send a lot of SYN requests to the target machine. **It wont hide your mac address but it will hide your IP.**
+
+Also keep in mind that the more processors you have the faster the program goes.
+
+**Run pip install -r requirements.txt**
+
+_This will install the dependencies_
+
+Home-page: https://github.com/XXXTheInternXXX/synFlood
+Author: Dylan Hudson
+Author-email: dhudson@azcwr.org
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU GPLv3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

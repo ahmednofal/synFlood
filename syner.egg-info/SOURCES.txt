@@ -1,0 +1,8 @@
+README.md
+setup.py
+core/syner
+syner.egg-info/PKG-INFO
+syner.egg-info/SOURCES.txt
+syner.egg-info/dependency_links.txt
+syner.egg-info/requires.txt
+syner.egg-info/top_level.txt
